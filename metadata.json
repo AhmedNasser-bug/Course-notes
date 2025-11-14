@@ -1,0 +1,5 @@
+{
+  "name": "Course Notes AI",
+  "description": "An application for managing courses and their summaries/notes with AI-powered summarization. Students can create courses, and upload notes, and the application will generate a concise summary using the Gemini API.",
+  "requestFramePermissions": []
+}
